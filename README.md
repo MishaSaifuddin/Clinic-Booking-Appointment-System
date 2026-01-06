@@ -120,12 +120,8 @@ The project includes the following system analysis artifacts:
 ---
 
 ## 👩‍💻 Author
-
-**Nurul Ummi Shahirah binti Mohd Saifuddin**  
 🔐 Focused on Secure Systems, Databases & Cybersecurity  
-
 📌 This project is part of my professional portfolio and demonstrates my readiness for **industry-level software and security roles**.
 
 ---
-
 

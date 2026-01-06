@@ -14,7 +14,7 @@ A real-world system analysis and design case study for an online clinic appointm
 - User-friendly and mobile-responsive system design
 - Centralized appointment management concept
 
-## Project Background
+## 🛠️Project Background
 
 This project was conducted for **Klinik Ceria**, a healthcare clinic that previously relied on manual appointment booking through phone calls and social media platforms such as WhatsApp. This approach resulted in long waiting times, missed appointments, and increased administrative workload. The project was completed as part of **BIC21003: System Analysis and Design**, applying structured SDLC practices to solve a real organizational problem.
 

@@ -117,7 +117,7 @@ The project includes the following system analysis artifacts:
 - Patient data protection and audit logging
 - Analytics dashboard for clinic management
 
-## Author
+## 👩🏼‍💻Author
 
 **Nurul Ummi Shahirah binti Mohd Saifuddin**  
 Bachelor of Computer Science (Information Security) with Honours

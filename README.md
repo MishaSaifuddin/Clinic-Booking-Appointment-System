@@ -56,7 +56,7 @@ This highlighted the need for a centralized, online appointment booking system.
 - Centralized appointment database
 - Responsive and mobile-friendly interface design
 
-##📊 Analysis & Design Documentation
+📊 Analysis & Design Documentation
 
 The project includes the following system analysis artifacts:
 
@@ -101,7 +101,7 @@ The project includes the following system analysis artifacts:
 - Feasibility Study
 - Healthcare Information Systems
 
-##📈 Impact
+📈 Impact
 
 - Improved clinic workflow efficiency
 - Reduced patient waiting time

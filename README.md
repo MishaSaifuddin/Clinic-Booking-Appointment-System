@@ -18,7 +18,7 @@ A real-world system analysis and design case study for an online clinic appointm
 
 This project was conducted for **Klinik Ceria**, a healthcare clinic that previously relied on manual appointment booking through phone calls and social media platforms such as WhatsApp. This approach resulted in long waiting times, missed appointments, and increased administrative workload. The project was completed as part of **BIC21003: System Analysis and Design**, applying structured SDLC practices to solve a real organizational problem.
 
-## 🎯 Problem Statement
+## 🎯Problem Statement
 
 - Klinik Ceria relied on manual appointment booking via phone calls and social media platforms ( WhatsApp), which caused:
 - Long waiting times
@@ -27,7 +27,7 @@ This project was conducted for **Klinik Ceria**, a healthcare clinic that previo
 - Difficulty in booking appointments in advance
 This highlighted the need for a centralized, online appointment booking system.
 
-##✅Objectives
+## ✅Objectives
 
 - Analyze the existing manual appointment booking workflow
 - Identify system problems and inefficiencies
@@ -36,7 +36,7 @@ This highlighted the need for a centralized, online appointment booking system.
 - Apply Waterfall SDLC methodology in a real-world context
 - Produce complete system analysis and design documentation
 
-## Methodology
+## 🔗Methodology
 
 **Software Development Life Cycle (SDLC):**
 - Waterfall Model  
@@ -56,7 +56,7 @@ This highlighted the need for a centralized, online appointment booking system.
 - Centralized appointment database
 - Responsive and mobile-friendly interface design
 
-📊 Analysis & Design Documentation
+## 📊Analysis & Design Documentation
 
 The project includes the following system analysis artifacts:
 
@@ -101,7 +101,7 @@ The project includes the following system analysis artifacts:
 - Feasibility Study
 - Healthcare Information Systems
 
-📈 Impact
+## 📈Impact
 
 - Improved clinic workflow efficiency
 - Reduced patient waiting time
